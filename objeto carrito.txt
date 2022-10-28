@@ -1,0 +1,6 @@
+{
+"id":
+"productos":[
+	{producto,cantidad}
+]
+}

@@ -1,0 +1,1 @@
+[{"id":1000,"productos":[{"title":"4","price":22000,"url_img":"hhttp","id":1004},{"title":"4","price":22000,"url_img":"hhttp","id":1004},{"title":"4","price":22000,"url_img":"hhttp","id":1004}]},{"id":1001,"productos":[]},{"id":1002,"productos":[]},{"id":1004,"productos":[]}]
